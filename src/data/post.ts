@@ -38,7 +38,7 @@ export function getRSS(posts: MarkdownInstance[]) {
 		title: 'Astro Blog',
 		description: 'Astro Blog Feed',
 		stylesheet: true,
-		customData: `<language>en-us</language>`,
+		customData: `<language>es-co</language>`,
 		items: published(posts).map((post: Post) => ({
 			title: post.title,
 			description: post.desc,

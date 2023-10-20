@@ -1,9 +1,9 @@
 ---
-title: I baught a chair and here's what I learned
+title: Primer Post
 date: 2022-04-09
 author: Pouya
 desc: Laudantium iste repellat et. Et officiis corporis. At est placeat voluptas aut. Soluta dolor quae quae tempora. Voluptatibus quibusdam natus. Facilis ea repellendus expedita voluptatum rerum autem.
-img: https://api.lorem.space/image/furniture?w=800&h=500
+img: https://www.eafit.edu.co/escuelas/economiayfinanzas/noticias-eventos/PublishingImages/info19-800x500.jpg
 imgWidth: 800
 imgHeight: 500
 ---
